@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "curso de tdd com js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rangelvarnier/js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Rangel Varnier <rangel.varnier@gmail.com> (https://rangelvarnier.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rangelvarnier/js-tdd/issues"
+  },
+  "homepage": "https://github.com/rangelvarnier/js-tdd#readme"
+}
